@@ -3,13 +3,22 @@
     "authors": [
         {
             "name": "binfer",
-            "email": "binfer.mvp@gmail.com"
+            "email": "binfer.mvp@gmail.com",
+            "homepage": "http://www.binfer.live",
+            "role": "developer"
         }
     ],
+
     "description": "A short description of what your package does",
 
     "require": {
         "php": "^5.6.37 || ^7.0",
         "another-vendor/package": "1.*"
+    },
+
+    "autoload": {
+        "psr-4": {
+          "Loading\\": ""
+        }
     }
 }
