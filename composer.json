@@ -6,5 +6,10 @@
             "email": "binfer.mvp@gmail.com"
         }
     ],
-    "require": {}
+    "description": "A short description of what your package does",
+
+    "require": {
+        "php": "^5.6.37 || ^7.0",
+        "another-vendor/package": "1.*"
+    }
 }
