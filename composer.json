@@ -1,5 +1,6 @@
 {
     "name": "binfer/binfer.php",
+    "type": "library",
     "description": "A short description of what your package does",
     "keywords": ["binfer", "composer"],
     "homepage": "https://github.com/binfer/binfer.php.git",
@@ -21,7 +22,7 @@
 
     "autoload": {
         "psr-4": {
-          "Loading\\": ""
+          "Monolog": "src"
         }
     }
 }
