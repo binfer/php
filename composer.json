@@ -1,5 +1,10 @@
 {
     "name": "binfer/binfer.php",
+    "description": "A short description of what your package does",
+    "keywords": ["binfer", "composer"],
+    "homepage": "https://github.com/binfer/binfer.php.git",
+    "license":  "MIT",
+
     "authors": [
         {
             "name": "binfer",
@@ -8,8 +13,6 @@
             "role": "developer"
         }
     ],
-
-    "description": "A short description of what your package does",
 
     "require": {
         "php": "^5.6.37 || ^7.0",
