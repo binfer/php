@@ -1,6 +1,6 @@
 {
     "name": "binfer/binfer.php",
-    "type": "library",
+    "type": "vcs",
     "description": "A short description of what your package does",
     "keywords": ["binfer", "composer"],
     "homepage": "https://github.com/binfer/binfer.php.git",
@@ -17,7 +17,6 @@
 
     "require": {
         "php": "^5.6.37 || ^7.0",
-        "another-vendor/package": "1.*",
         "binfer/binfer.php": "^1.0"
     },
 
