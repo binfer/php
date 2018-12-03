@@ -16,8 +16,7 @@
     ],
 
     "require": {
-        "php": "^5.6.37 || ^7.0",
-        "binfer/binfer.php": "^1.0"
+        "php": "^5.6.37 || ^7.0"
     },
 
     "autoload": {
