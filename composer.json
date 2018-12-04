@@ -1,9 +1,9 @@
 {
-    "name": "binfer/binfer.php",
+    "name": "binfer/php",
     "type": "vcs",
     "description": "A short description of what your package does",
     "keywords": ["binfer", "composer"],
-    "homepage": "https://github.com/binfer/binfer.php.git",
+    "homepage": "https://github.com/binfer/php.git",
     "license":  "MIT",
 
     "authors": [
