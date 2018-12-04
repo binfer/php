@@ -21,7 +21,9 @@
 
     "autoload": {
         "psr-4": {
-          "Monolog\\": "src"
+          "app\\":"src/app/",
+          "exception\\": "src/exception/",
+          "src\\": "src/"
         }
     }
 }
